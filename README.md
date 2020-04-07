@@ -11,8 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# My Study
-## Python and Vue.js and English and chinese
+### My Study
+### Python and Vue.js and English and chinese
 ### Begginer
 
 - Bulleted
